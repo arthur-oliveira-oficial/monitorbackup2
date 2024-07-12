@@ -1,0 +1,3 @@
+para executar em segundo plano no windows digitar pythonw e caminho do script e caminho da pasta a se monitorada
+
+pythonw C:\Users\arthur\Pictures\monitorbackup\main.py "C:\Users\arthur\Downloads\backup\imp"
